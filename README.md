@@ -26,12 +26,15 @@ conda create -n mlproj python=3.8 -y
 ```bash
 conda activate mlproj
 ```
+###Step 2: Install Dependencies
 ```bash
 pip install numpy pandas matplotlib streamlit
 ```
+###📁 Step 3: Clone the Repository
 ```bash
 git clone https://github.com/shivani983/retail_sales_dashboard_guvi.git
 ```
+###▶️ Run the App
 ```bash
 cd retail_sales_dashboard_guvi
 ```
